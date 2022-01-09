@@ -1,0 +1,3 @@
+OFF = 0
+SOFT_MASK = 1
+HARD_MASK = 2
